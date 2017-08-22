@@ -1,4 +1,4 @@
-**Morningstar**
+**Morningstar Payment Systems**
 
 - Pure PoS after initial PoW coins are mined
 - 30 seconds block target
@@ -14,4 +14,3 @@
 - 100 million total coins
 
 
-# morningstar
