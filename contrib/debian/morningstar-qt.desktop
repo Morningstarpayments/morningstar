@@ -1,0 +1,13 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Morningstar
+Comment=Morningstar P2P Cryptocurrency
+Comment[fr]=Morningstar, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=Morningstar, eşten eşe kriptografik sanal para birimi
+Comment[es]=Morningstar, una criptomoneda P2P
+Exec=/usr/bin/Morningstar-qt
+Terminal=false
+Type=Application
+Icon=/usr/share/pixmaps/bitcoin80.xpm
+MimeType=x-scheme-handler/Morningstar;
+Categories=Office;

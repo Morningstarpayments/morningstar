@@ -1,0 +1,5 @@
+Morningstar-qt usr/bin
+share/pixmaps/bitcoin32.xpm usr/share/pixmaps
+share/pixmaps/bitcoin80.xpm usr/share/pixmaps
+debian/Morningstar-qt.desktop usr/share/applications
+debian/Morningstar-qt.protocol usr/share/kde4/services/
