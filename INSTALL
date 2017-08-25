@@ -1,9 +1,0 @@
-Building Morningstar
-
-See doc/readme-qt.rst for instructions on building Morningstar QT,
-the intended-for-end-users, nice-graphical-interface, reference
-implementation of Morningstar.
-
-See doc/build-*.txt for instructions on building Morningstard,
-the intended-for-services, no-graphical-interface, reference
-implementation of Morningstar.
